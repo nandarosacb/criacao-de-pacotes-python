@@ -1,0 +1,10 @@
+README.md
+setup.py
+combina_o_fotos.egg-info/PKG-INFO
+combina_o_fotos.egg-info/SOURCES.txt
+combina_o_fotos.egg-info/dependency_links.txt
+combina_o_fotos.egg-info/top_level.txt
+combinação_fotos/__init__.py
+combinação_fotos/file1_name.py
+combinação_fotos/file2_name.py
+combinação_fotos/main.py
